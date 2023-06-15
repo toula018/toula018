@@ -21,13 +21,23 @@
 </h1>
  </div>
  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+</div>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :woman_technologist: About Me :
+Hello! I'm Aicha, a passionate individual with a strong background in Artificial Intelligence and Distributed Systems. I thrive on exploring the endless possibilities that technology offers to solve complex problems.
+
+
+- 🎓 Throughout my academic journey, I have focused on studying Artificial Intelligence and Distributed Systems, building a solid foundation in these fields.
+
+- 🌐 In addition to my technical expertise, I am proficient in English, French, and Arabic, enabling me to effectively communicate and collaborate with diverse teams across international boundaries.
+
+- 💻 Implemented a simple distributed system using a combination of peer-to-peer architecture and other architectures, enabling seamless sharing and communication among users across multiple nodes.
+
+- 📊 I am particularly inspired by the realm of data analytics and its potential to uncover valuable insights. I have dedicated time to studying data analytics in conjunction with machine learning techniques, using tools like Excel and other data analysis platforms. This blend of skills allows me to harness the power of data to make informed decisions and drive business growth.
+
+- 🌟 My ultimate goal is to leverage my knowledge and skills in Artificial Intelligence, Distributed Systems, and Data Analytics to develop innovative solutions that have a positive impact. I am eager to collaborate with like-minded professionals and contribute to projects that push the boundaries of what can be achieved.
+
+- ✉️ If you have any questions, potential collaboration opportunities, or would simply like to connect, please don't hesitate to reach out. I am always open to new ideas and discussions. Let's shape the future together!: [![Linkedin Badge](https://img.shields.io/badge/-DerradjiAichaElbatoul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derradji-aicha-elbatoul-0543b7225/)
