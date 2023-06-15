@@ -56,6 +56,5 @@ Hello! I'm Aicha, a passionate individual with a strong background in Artificial
  <img src="https://github.com/toula018/toula018/assets/104470413/7fbd12aa-21d9-4e8e-b6a7-1a71f4f53d664"  title="mysql" alt="Mysql" width="40"  height="40"/>&nbsp;
  </div>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toula018&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toula018&theme=ambient-gradient&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toula018&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
