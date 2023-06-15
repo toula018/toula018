@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
----
+
 
 ### :woman_technologist: About Me :
 Hello! I'm Aicha, a passionate individual with a strong background in Artificial Intelligence and Distributed Systems. I thrive on exploring the endless possibilities that technology offers to solve complex problems.
@@ -44,17 +44,18 @@ Hello! I'm Aicha, a passionate individual with a strong background in Artificial
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://as1.ftcdn.net/v2/jpg/02/35/03/78/1000_F_235037851_doEtxbigVqkuQHw3NNT80EH2OQ2mBbge.jpg" title="Exel" alt="Exel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
- <img src="https://as1.ftcdn.net/v2/jpg/05/39/22/70/1000_F_539227026_Yhn0dbZEcKxLgaGkkNkSRb9y2s7Bsz1p.jpg" title="Machine Learning" alt="Mchine Learning" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://as1.ftcdn.net/v2/jpg/03/85/58/12/1000_F_385581242_5vIAQ8fg4TQPahinIzE5HpKXn45nKKBG.jpg" title="PowerBi" alt="PowerBi" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
- <img src="https://github.com/toula018/toula018/assets/104470413/7fbd12aa-21d9-4e8e-b6a7-1a71f4f53d664"  title="mysql" alt="Mysql" width="40"  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+ <img src="https://as1.ftcdn.net/v2/jpg/02/35/03/78/1000_F_235037851_doEtxbigVqkuQHw3NNT80EH2OQ2mBbge.jpg" title="Exel" alt="Exel" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
+ <img src="https://as1.ftcdn.net/v2/jpg/05/39/22/70/1000_F_539227026_Yhn0dbZEcKxLgaGkkNkSRb9y2s7Bsz1p.jpg" title="Machine Learning" alt="Mchine Learning" width="30" height="30"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+ <img src="https://as1.ftcdn.net/v2/jpg/03/85/58/12/1000_F_385581242_5vIAQ8fg4TQPahinIzE5HpKXn45nKKBG.jpg" title="PowerBi" alt="PowerBi" width="30" height="30"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
+ <img src="https://github.com/toula018/toula018/assets/104470413/7fbd12aa-21d9-4e8e-b6a7-1a71f4f53d664"  title="mysql" alt="Mysql" width="30"  height="30"/>&nbsp;
  </div>
  
+ ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toula018&theme=ambient-gradient&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
