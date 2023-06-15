@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**toula018/toula018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div id="header" align="center">
+<img src="https://github.com/toula018/toula018/assets/104470413/3f0acaa4-41b5-473b-b73d-270e2dbd8074" alt="lanalyse-des-donnees" width="200">
+ </div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
