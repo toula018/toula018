@@ -13,13 +13,11 @@
 
 
 ## 👩🏻‍💻 About Me :<div style="height: 1px; background-color: #ddd; margin: 10px 0;"></div>
-<img alt="Night Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right"/>
+<img alt="Night Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right" style="width: 350px; height: 300px;" />
 
 - 🔭 I have focused on studying Artificial Intelligence and Distributed Systems
 
-- 🌱 I am particularly inspired by data analytics 
-
-- 👨‍💻 My ultimate goal is to leverage my knowledge and skills in Artificial Intelligence, Data Sience, and Data Analytics
+- 👨‍💻 I am particularly inspired by data Analytics, AI, Data Science
 
 - 💬 Ask me about Machine Learning, AI, Python
 
