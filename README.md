@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aicha Derradji</h1>
-<h4 align="center">a passionate individual with a strong background in Artificial Intelligence and Distributed Systems. I thrive on exploring the endless possibilities that technology offers to solve complex problems.</h>
+<h2 align="center">Hi 👋, I'm Aicha Derradji</h2>
+<h6 align="center">a passionate individual with a strong background in Artificial Intelligence and Distributed Systems. I thrive on exploring the endless possibilities that technology offers to solve complex problems.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toula018&label=Profile%20views&color=0e75b6&style=flat" alt="toula018" /> </p>
+
 <!--  
   <a href="https://www.linkedin.com/in/derradji-aicha-elbatoul-0543b7225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90"/>
@@ -13,19 +14,18 @@
 
 ## 👩🏻‍💻 About Me :<div style="height: 1px; background-color: #ddd; margin: 10px 0;"></div>
 <img alt="Night Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right"/>
-- 🔭 I have focused on studying **Artificial Intelligence and Distributed Systems, building a solid foundation in these fields.**
 
-- 🌱 I am particularly inspired by **the realm of data analytics and its potential to uncover valuable insights**
+- 🔭 I have focused on studying Artificial Intelligence and Distributed Systems
 
-- 👨‍💻 I implemented **a simple distributed system using a combination of peer-to-peer architecture and other architectures**
+- 🌱 I am particularly inspired by data analytics 
 
-- 📄 My ultimate goal is to leverage **my knowledge and skills in Artificial Intelligence, Data Sience, and Data Analytics**
+- 👨‍💻 My ultimate goal is to leverage my knowledge and skills in Artificial Intelligence, Data Sience, and Data Analytics
 
-- 💬 Ask me about **Machine Learning, AI, Python ...**
+- 💬 Ask me about Machine Learning, AI, Python
 
 - 📫 How to reach me **Derradjiaichaelbatoul@gmail.com**
-
-- ⚡ Fun fact **I think I am funny *-***
+  
+- ⚡ Fun fact I think I am funny 
 ## 📫 Connect with me:<div style="height: 1px; background-color: #ddd; margin: 10px 0;"></div>
 
 <p align="left">
